@@ -1,2 +1,3 @@
 Java legal
 Sofia é legal
+Java é uma linguagem orientada a objetos
